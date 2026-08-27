@@ -17,7 +17,7 @@
 </p>
 
 - oscilo v1.0.7
-- 소스: https://github.com/sdkurjnk/oscilo/tree/v1.0.7
+- 소스: https://github.com/sdkurjnk/oscilo/
 - 배포: https://pypi.org/project/oscilo/
 
 ---
@@ -33,5 +33,5 @@
 </p>
 
 - OsciloScope v0.2.1
-- 소스: https://github.com/sdkurjnk/OsciloScope/tree/v0.2.1
+- 소스: https://github.com/sdkurjnk/OsciloScope/
 - 배포: https://open-vsx.org/extension/sdkurjnk/osciloscope
