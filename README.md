@@ -16,9 +16,16 @@
   </picture>
 </p>
 
-- oscilo v1.0.7
-- 소스: https://github.com/sdkurjnk/oscilo/
-- 배포: https://pypi.org/project/oscilo/
+<p align="center">
+  <a href="https://pypi.org/project/oscilo/"><img src="https://img.shields.io/pypi/v/oscilo?label=PyPI&color=3775A9&logo=pypi&logoColor=white" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/oscilo/"><img src="https://img.shields.io/pypi/pyversions/oscilo?logo=python&logoColor=white" alt="Python versions"></a>
+  <a href="https://github.com/sdkurjnk/oscilo/blob/master/LICENSE"><img src="https://img.shields.io/pypi/l/oscilo?color=green" alt="License"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sdkurjnk/oscilo/">소스</a> ·
+  <a href="https://pypi.org/project/oscilo/">PyPI 배포</a>
+</p>
 
 ---
 
@@ -32,6 +39,12 @@
   </picture>
 </p>
 
-- OsciloScope v0.2.1
-- 소스: https://github.com/sdkurjnk/OsciloScope/
-- 배포: https://open-vsx.org/extension/sdkurjnk/osciloscope
+<p align="center">
+  <a href="https://open-vsx.org/extension/sdkurjnk/osciloscope"><img src="https://img.shields.io/open-vsx/v/sdkurjnk/osciloscope?label=Open%20VSX&color=A60EE5&logo=vscodium&logoColor=white" alt="Open VSX version"></a>
+  <a href="https://open-vsx.org/extension/sdkurjnk/osciloscope"><img src="https://img.shields.io/open-vsx/dt/sdkurjnk/osciloscope?label=downloads" alt="Downloads"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sdkurjnk/OsciloScope/">소스</a> ·
+  <a href="https://open-vsx.org/extension/sdkurjnk/osciloscope">Open VSX 배포</a>
+</p>
